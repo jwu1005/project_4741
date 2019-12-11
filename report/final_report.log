@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  10 DEC 2019 23:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  10 DEC 2019 23:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -896,43 +896,43 @@ File: ./graphs/sp_slg.png Graphic file (type png)
 Package pdftex.def Info: ./graphs/sp_slg.png  used on input line 115.
 (pdftex.def)             Requested size: 346.89867pt x 216.81168pt.
  [5 <./graphs/sp_obp.png> <./graphs/sp_slg.png>] [6]
-Overfull \hbox (5.72021pt too wide) in paragraph at lines 164--165
+Overfull \hbox (5.72021pt too wide) in paragraph at lines 172--173
 [][]$\OT1/cmtt/m/n/12 https : / / www . espn . com / mlb / story / _ / page / p
 layoffs16 _ whydontthebestteamswinitall /
  []
 
-
-Overfull \hbox (214.49532pt too wide) in paragraph at lines 166--168
+[7]
+Overfull \hbox (214.49532pt too wide) in paragraph at lines 174--176
 [][]$\OT1/cmtt/m/n/12 https : / / theathletic . com / 1234635 / 2019 / 09 / 24 
 / sarris-[]what-[]if-[]anything-[]predicts-[]a-[]teams-[]success-[]in-[]the-[]p
 ostseason/$[][]
  []
 
 
-Overfull \hbox (12.89522pt too wide) in paragraph at lines 169--171
+Overfull \hbox (12.89522pt too wide) in paragraph at lines 177--179
 [][]$\OT1/cmtt/m/n/12 http : / / www . seanlahman . com / baseball-[]archive / 
 sabermetrics / sabermetric-[]manifesto/$[][]
  []
 
 
-Overfull \hbox (114.19527pt too wide) in paragraph at lines 178--180
+Overfull \hbox (114.19527pt too wide) in paragraph at lines 186--188
 [][]$\OT1/cmtt/m/n/12 https : / / towardsdatascience . com / predicting-[]mlb-[
 ]game-[]outcomes-[]with-[]machine-[]learning-[]594eac9484e9$[][]
  []
 
-[7] [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
+[8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
  (./final_report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
 Package rerunfilecheck Info: File `final_report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 183.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
  ) 
 Here is how much of TeX's memory you used:
- 19010 strings out of 492649
- 346094 string characters out of 6129622
+ 19011 strings out of 492649
+ 346105 string characters out of 6129622
  432469 words of memory out of 5000000
  22512 multiletter control sequences out of 15000+600000
  14204 words of font info for 57 fonts, out of 8000000 for 9000
@@ -945,10 +945,10 @@ b></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on final_report.pdf (8 pages, 166314 bytes).
+Output written on final_report.pdf (8 pages, 167057 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 500000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

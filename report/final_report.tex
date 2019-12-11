@@ -160,6 +160,14 @@ Looking at our models and their results, we wouldn't take them to Vegas with us 
 \noindent
 And as always, go Yankees.
 
+\section*{Last Minute Update}
+So we tried out the idea of taking the difference of stats between two teams. For example, instead of having \textit{h\textunderscore obp} and \textit{v\textunderscore obp}, we take the difference of the two stats to create \textit{d\textunderscore obp}. The results were much better, except for XGBoost (although we are instinctively skeptical). The test case accuracies of our models are as follows:
+\begin{itemize}
+\item Logistic regression : 58.2\%
+\item Random Forest : 71.8\%
+\item XGBoost : 53.7\%
+\end{itemize}
+
 \section*{Bibliography}
 \url{https://www.espn.com/mlb/story/_/page/playoffs16_whydontthebestteamswinitall/why-difficult-best-mlb-teams-win-all} \vspace*{4mm}
 
